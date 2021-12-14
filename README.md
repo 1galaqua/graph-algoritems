@@ -1,5 +1,6 @@
 # Ex 2
-third assignment of OOP course
+third assignment of OOP course(to see the older version before the issues with git go to more info in the readme there is a link to the ancient repository )
+
 
 ## How to download the project 
 clone the projects from github then open command line into the data directory and enter : "java -jar Ex2.jar <file.json>" and press enter (the <file.json> it is the file you want to load from it a graph )
@@ -70,6 +71,7 @@ there is two main button:
 ## More info
  - due to our use of arrayList to store the nodes  , we didn't succeed to make the possibility to removes all nodes but each time remove the node with the biggest id .
  - To load bigger graph download the file zip in the Assigment/ex2/data directory , extract the json files and you can use it.
+ - due to some issues with our first git repository we transfer all our work to this repository , the old work with the commits is at : https://github.com/gars-cmd/Ex2/commits/master?before=0b681a57ccd44385c06def791d258288c9510f44+35&branch=master
  
 ## pictures
 [![pic1.jpg](https://i.postimg.cc/ZRcCCPDG/Screenshot-1.jpg)](https://postimg.cc/VrJYhtwg)
